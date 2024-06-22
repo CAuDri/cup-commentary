@@ -46,8 +46,8 @@ Sinan / Regelkenner die Regeln erklären lassen
 
 * zb. No-passing zone
 
-
-## Sponsoren
+## Abmoderation
+### Sponsoren
 
 #### NTT Data 
 - Equipment (Monitore)
