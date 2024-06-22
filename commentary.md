@@ -1,17 +1,4 @@
 # Interview
-## Während der Fahrt
-### Team
-* Welches technische Gebiet ist am stärksten vertreten.
-* Wie habt ihr eurer Team strukturiert?
-
-### Auto
-* Was ist besonders an eurem Auto?
-* Was sind eure Pläne für die Zukunft
-
-### Rückblick
-* Woran habt ihr im letzten Jahr gearbeit
-* Wie stressig waren die letzten Tage vor der Challenge fuer euch?
-
 ## Vorab
 Diese Fragen können dann erzählt werden oder auf den Antworten kann das Interview dann aufbauen.
 ### Allgemein
@@ -26,11 +13,24 @@ Diese Fragen können dann erzählt werden oder auf den Antworten kann das Interv
 ### Schnellfragerunde
 * Welches Getränk wird bei euch am meisten getrunken?
 
+## Während der Fahrt
+### Team
+* Welches technische Gebiet ist am stärksten vertreten.
+* Wie habt ihr eurer Team strukturiert?
 
-# Erkären und erzählen
+### Auto
+* Was ist besonders an eurem Auto?
+* Was sind eure Pläne für die Zukunft
+
+### Rückblick
+* Woran habt ihr im letzten Jahr gearbeit
+* Wie stressig waren die letzten Tage vor der Challenge fuer euch?
+
+
+# Erklären und Erzählen
 Sinan / Regelkenner die Regeln erklären lassen
 ## Free Drive
-* Parken in jeder Runde einmal erlaubt
+* Parken in jeder Runde einmal erlaubt (max. 3 gewertet)
   * Man muss dabei blinken!
 * Möglichst schnell sein
 * Scoring wie früher über Multipliers und Abzüge
