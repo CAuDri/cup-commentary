@@ -1,6 +1,6 @@
 # Interview
 ## Vorab
-Diese Fragen können dann erzählt werden oder auf den Antworten kann das Interview dann aufbauen.
+Driese Fragen können dann erzählt werden oder auf den Antworten kann das Interview dann aufbauen.
 ### Allgemein
 * Wie lange gibt es euch schon?
 * Wie viele Mitglieder habt ihr?
@@ -31,7 +31,8 @@ Diese Fragen können dann erzählt werden oder auf den Antworten kann das Interv
 Sinan / Regelkenner die Regeln erklären lassen
 ## Free Drive
 * Parken in jeder Runde einmal erlaubt (max. 3 gewertet)
-  * Man muss dabei blinken!
+  * Beginn: Blinken
+  * Ende:    in Fahrtrichtung, 3 Räder auf dem rechten Fahrtstreifen
 * Möglichst schnell sein
 * Scoring wie früher über Multipliers und Abzüge
 
@@ -44,3 +45,24 @@ Sinan / Regelkenner die Regeln erklären lassen
 * Für jedes Streckenelement
 
 * zb. No-passing zone
+
+
+## Sponsoren
+
+#### NTT Data 
+- Equipment (Monitore)
+#### Freunde und Förderer DHBW Stuttgart 
+- Finanzielle Unterstützung
+- Kaffee Bike (Micha)
+#### KAMO
+- Finanzielle Unterstützung
+#### DHBW Stuttgart
+- Örtlichkeiten
+insb.
+Prof. Dr. Zoltán Zomotor
+Labortechniker 1
+Labortechniker 2
+
+#### Ablauf
+#####
+
