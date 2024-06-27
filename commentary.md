@@ -1,3 +1,31 @@
+# Anmoderation
+
+- Kaffee on Tour
+- Getränke
+  - an den Tischen neben Michas Kaffeewägelchen
+  - Morgens mit Kässchen
+  - Mittags Kuchen & Waffeln
+- Strecken
+- Prof. Dr. Zoltan Zomotor
+
+- Schiedsrichter (extra)
+
+### Sponsoren
+
+#### NTT Data 
+- Equipment (Monitore)
+#### Freunde und Förderer DHBW Stuttgart 
+- Finanzielle Unterstützung
+- Kaffee Bike (Micha)
+#### KAMO
+- Finanzielle Unterstützung
+#### DHBW Stuttgart
+- Örtlichkeiten
+insb.
+Prof. Dr. Zoltán Zomotor
+Labortechniker 1
+Labortechniker 2
+
 # Interview
 ## Vorab
 Driese Fragen können dann erzählt werden oder auf den Antworten kann das Interview dann aufbauen.
@@ -47,22 +75,12 @@ Sinan / Regelkenner die Regeln erklären lassen
 * zb. No-passing zone
 
 ## Abmoderation
-### Sponsoren
-
-#### NTT Data 
-- Equipment (Monitore)
-#### Freunde und Förderer DHBW Stuttgart 
-- Finanzielle Unterstützung
-- Kaffee Bike (Micha)
-#### KAMO
-- Finanzielle Unterstützung
-#### DHBW Stuttgart
-- Örtlichkeiten
-insb.
-Prof. Dr. Zoltán Zomotor
-Labortechniker 1
-Labortechniker 2
 
 #### Ablauf
+* Plan liegt aus
+* 11:30 Freie Testfahrten der Teams
+
+
 #####
+
 
